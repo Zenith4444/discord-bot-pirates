@@ -1,4 +1,4 @@
 title("THE CURSED PIRATES")
-.setAuthor("Zenith444",)
+.setAuthor("Zen4",)
 .setDescription("Read")
-.setTimestamp()
+.setTimestamp(100)
